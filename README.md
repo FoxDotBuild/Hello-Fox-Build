@@ -107,7 +107,15 @@ Prusa
 
 ---
 
-# How We Help Businesses
+# How We Help Entrepreneurs
+
+---
+
+# How We Help Engineers
+
+---
+
+# How We Help Established Businesses
 
 ---
 
@@ -126,7 +134,7 @@ Prusa
 
 # Visit Fox.Build!
 
-Email: info@fox.build
-Website: www.fox.build
-Phone: 623-414-8346
-Hours of operation: Call ahead
+ * Email: info@fox.build
+ * Website: www.fox.build
+ * Phone: 623-414-8346
+ * Hours of operation: Call ahead
