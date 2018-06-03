@@ -45,7 +45,7 @@
 
 ---
 
-# What _We_ Offer
+# What We Offer
 
 ![](xcarve.png)
 
@@ -53,7 +53,7 @@ X-Carve
 
 ---
 
-# What _We_ Offer
+# What We Offer
 
 ![](prusa.png)
 
@@ -61,7 +61,7 @@ Prusa
 
 ---
 
-# What _We_ Offer
+# What We Offer
 
 ![](./class_at_foxbuild.jpg)
 
@@ -69,7 +69,7 @@ Meetups / Classes
 
 ---
 
-# What _We_ Offer
+# What We Offer
 
 ![](maslow.png)
 
