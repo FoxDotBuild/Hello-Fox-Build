@@ -10,11 +10,17 @@
 
 ---
 
-# What's a Makerspace
+# Where?
 
- * Place for learning, similar to a library
+![](map.png)
+
+15 S. 2nd St. in  St. Charles.
 
 ---
+
+# What Happens at a Makerspace?
+
+Learning and making, similar to a library
 
 ![](./foxbuild_party.jpg)
 
@@ -32,7 +38,7 @@
 
 ---
 
-# Fox.Build History
+# Fox.Build History*
 
  * Started February in 2016 after one week of planning
  * 100% of funding from memberships
@@ -40,6 +46,8 @@
  * Numerous monthly and weekly social gatherings
 
 ---
+
+Early Fox.Build, February 2014
 
 ![](./early_foxbuild.jpg)
 
@@ -74,14 +82,6 @@ Meetups / Classes
 ![](maslow.png)
 
 Prusa
-
----
-
-# Where?
-
-![](map.png)
-
-15 S. 2nd St. in  St. Charles.
 
 ---
 
