@@ -6,15 +6,37 @@
 
 ---
 
-# What's a Makerspace
+# Hello!
+
+**Rick Carlino**
+
+Software developer, technology hobbyist, runner, life long learner.
+
+Attended ASU, grew up in the NW burbs.
+
+Helping builf a tech startup from 9 to 5.
+
+---
+
+# What's a Makerspace?
 
  * An offline social network for Engineers, Artists, Entrepreneurs
-   * THINK: Twitter or Linkedin, in real life
- * A "Public Library" for tools and equipment
-   * You can come in and use really expensive tools for engineering
+ * A Library of tools and manufacturing equipment
+ * **A community of makers**
+
+---
+
+# What It Isn't
+
+ * A paid service
+
 ---
 
 # Where?
+
+...
+
+---
 
 ![](map.png)
 
@@ -25,6 +47,10 @@
 # What Happens at a Makerspace?
 
 Learning and making, similar to a library
+
+...
+
+---
 
 ![](./foxbuild_party.jpg)
 
@@ -53,11 +79,19 @@ Learning and making, similar to a library
 
 Early Fox.Build, February 2014
 
+...
+
+---
+
 ![](./early_foxbuild.jpg)
 
 ---
 
-# What We Offer
+# Equipment We Offer
+
+...
+
+---
 
 ![](xcarve.png)
 
@@ -65,37 +99,34 @@ X-Carve
 
 ---
 
-# What We Offer
-
 ![](prusa.png)
 
 Prusa
 
 ---
 
-# What We Offer
-
-![](./class_at_foxbuild.jpg)
+# Class
 
 Meetups / Classes
 
 ---
 
-# What We Offer
-
-![](maslow.png)
-
-Prusa
+![](./class_at_foxbuild.jpg)
 
 ---
 
-# Our Members
+# Our Members (Part I)
 
   * Software Engineers
   * Electrical Engineer
   * Mechanical Engineers
   * Biologists and "Bio Hackers"
   * Architects
+
+---
+
+# Our Members (Part II)
+
   * Welders, Wood Workers and Craftsmen
   * FAA Licensed Drone Pilots
   * Geologists
@@ -104,14 +135,22 @@ Prusa
 
 ---
 
-# Past Projects
+# Past Projects (Part I)
+
  * Maslow CNC
  * Milk Dispenser
  * MQTT Class
  * Drafting Class
+
+---
+
+# Past Projects (Part II)
+
+ * Metal Milling Class
  * Wire Bender
  * Meat Smoker
  * Column Chromatography
+
 ---
 
 # How We Help Entrepreneurs
@@ -140,9 +179,17 @@ Prusa
 
 ---
 
+# Help!
+
+ * Become a member
+ * Teach a class
+ * Donate equipment
+
+---
+
 # Visit Fox.Build!
 
  * Email: info@fox.build
  * Website: www.fox.build
  * Phone: 623-414-8346
- * Hours of operation: Call ahead
+ * Hours of operation: Please call ahead
