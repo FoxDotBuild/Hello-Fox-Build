@@ -1,6 +1,5 @@
 <!-- $theme: gaia -->
-
-# Fox.Build
+## Fox.Build
 
 ![](logo.png)
 
@@ -10,25 +9,19 @@
 
 **Rick Carlino**
 
-Software developer, technology hobbyist, runner, life long learner.
+Software developer, technologist, learner.
 
 Attended ASU, grew up in the NW burbs.
 
-Helping builf a tech startup from 9 to 5.
+Helping build a tech startup from 9 to 5.
 
 ---
 
-# What's a Makerspace?
+# A Makerspace?
 
  * An offline social network for Engineers, Artists, Entrepreneurs
  * A Library of tools and manufacturing equipment
- * **A community of makers**
-
----
-
-# What It Isn't
-
- * A paid service
+ * **A community**
 
 ---
 
@@ -44,9 +37,11 @@ Helping builf a tech startup from 9 to 5.
 
 ---
 
-# What Happens at a Makerspace?
+# Daily Activity
 
-Learning and making, similar to a library
+ * Learning and making, similar to a library.
+ * Co-working.
+ * Socializing.
 
 ...
 
@@ -56,19 +51,22 @@ Learning and making, similar to a library
 
 ---
 
-# Makerspaces in Chicagoland
+# Makerspaces Varieties
 
- * Community vs. Service vs. Coworking-only
-
----
-
-# Makerspaces in Chicagoland
-
- * Youth focused vs. Adult focused
+ * Community (Non-Profit)
+ * Service (For-Profit)
+ * Coworking-only
 
 ---
 
-# Fox.Build History*
+# Makerspaces Varieties
+
+ * Youth focused
+ * Adult focused
+
+---
+
+# Fox.Build History
 
  * Started February in 2016 after one week of planning
  * 100% of funding from memberships
@@ -77,7 +75,7 @@ Learning and making, similar to a library
 
 ---
 
-Early Fox.Build, February 2014
+Early Fox.Build, circa February 2016
 
 ...
 
@@ -105,9 +103,9 @@ Prusa
 
 ---
 
-# Class
+# Events
 
-Meetups / Classes
+Meetups / Classes / Networking
 
 ---
 
@@ -115,7 +113,7 @@ Meetups / Classes
 
 ---
 
-# Our Members (Part I)
+# Members (I)
 
   * Software Engineers
   * Electrical Engineer
@@ -125,7 +123,7 @@ Meetups / Classes
 
 ---
 
-# Our Members (Part II)
+# Members (II)
 
   * Welders, Wood Workers and Craftsmen
   * FAA Licensed Drone Pilots
@@ -135,7 +133,7 @@ Meetups / Classes
 
 ---
 
-# Past Projects (Part I)
+# Projects (I)
 
  * Maslow CNC
  * Milk Dispenser
@@ -144,7 +142,7 @@ Meetups / Classes
 
 ---
 
-# Past Projects (Part II)
+# Projects (II)
 
  * Metal Milling Class
  * Wire Bender
