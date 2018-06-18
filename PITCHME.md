@@ -9,7 +9,7 @@
 
 **Rick Carlino**
 
-Software developer, technologist, learner.
+Software developer and technologist.
 
 Attended ASU, grew up in the NW burbs.
 
@@ -37,6 +37,9 @@ Helping build a tech startup from 9 to 5.
 
 ---
 
+![](new_building.png)
+
+---
 # Daily Activity
 
  * Learning and making, similar to a library.
