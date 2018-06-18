@@ -2,12 +2,16 @@
 
 # Fox.Build
 
+![](logo.png)
+
 ---
 
 # What's a Makerspace
 
- * Offline social network for Engineers, Artists, Entrepreneurs
-
+ * An offline social network for Engineers, Artists, Entrepreneurs
+   * THINK: Twitter or Linkedin, in real life
+ * A "Public Library" for tools and equipment
+   * You can come in and use really expensive tools for engineering
 ---
 
 # Where?
@@ -95,6 +99,7 @@ Prusa
   * Welders, Wood Workers and Craftsmen
   * FAA Licensed Drone Pilots
   * Geologists
+  * Wood Workersw
   * People having fun creating new things
 
 ---
@@ -104,7 +109,9 @@ Prusa
  * Milk Dispenser
  * MQTT Class
  * Drafting Class
-
+ * Wire Bender
+ * Meat Smoker
+ * Column Chromatography
 ---
 
 # How We Help Entrepreneurs
@@ -129,6 +136,7 @@ Prusa
  * Tech Hub
  * More equipment
  * More classes
+ * More Entrepreneurship Support
 
 ---
 
