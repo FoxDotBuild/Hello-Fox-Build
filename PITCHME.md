@@ -131,7 +131,6 @@ Meetups / Classes / Networking
   * Welders, Wood Workers and Craftsmen
   * FAA Licensed Drone Pilots
   * Geologists
-  * Wood Workersw
   * People having fun creating new things
 
 ---
