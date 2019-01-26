@@ -31,13 +31,9 @@ Helping build a tech startup from 9 to 5.
 
 ---
 
-![](map.png)
-
 15 S. 2nd St. in  St. Charles.
 
----
-
-![](new_building.png)
+![](new_building.jpg)
 
 ---
 # Daily Activity
@@ -73,7 +69,7 @@ Helping build a tech startup from 9 to 5.
 
  * Started February in 2016 after one week of planning
  * 100% of funding from memberships
- * ~45 members
+ * ~60 members
  * Numerous monthly and weekly social gatherings
 
 ---
@@ -161,18 +157,21 @@ Meetups / Classes / Networking
 
 ---
 
-# How We Help Established Businesses
+# How We Help the Fox Valley
 
 ---
 
-# How We Help the Fox Valley
+# Membership Rates
+
+ * $25/month - "Starving Hacker" student rate
+ * $60/month - 24 hour access to all equipment
+ * $150/month - Reserved work bench / desk
 
 ---
 
 # Future Plans
 
- * New building
- * Tech Hub
+ * Become a Tech Hub
  * More equipment
  * More classes
  * More Entrepreneurship Support
@@ -181,9 +180,10 @@ Meetups / Classes / Networking
 
 # Help!
 
- * Become a member
+ * Become a member!
  * Teach a class
  * Donate equipment
+ * Donate money
 
 ---
 
